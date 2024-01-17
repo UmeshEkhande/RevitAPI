@@ -1,6 +1,6 @@
 # Revit API Project
 
-This repository contains two projects, AddButton and AddPanel, implementing a Revit API project. The AddButton project adds a "Hello World" button as a Revit add-in, while the AddPanel project creates a custom ribbon panel named "Hello World."
+This repository comprises two projects, AddButton and AddPanel, implementing a Revit API endeavor. The AddButton project introduces a "Greetings Universe" button as a Revit add-in, while the AddPanel project establishes a customized ribbon panel titled "Greetings Universe."
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -13,7 +13,7 @@ This repository contains two projects, AddButton and AddPanel, implementing a Re
 1. Clone the repository:
 
     ```bash
-    [git clone https://github.com/kunalMore23/RevitAPI.git]
+    [git clone https://github.com/UmeshEkhande/RevitAPI.git]
     ```
 
 2. Open the solution file of the required project in Visual Studio.
