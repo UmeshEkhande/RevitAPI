@@ -42,7 +42,6 @@ To use the AddPanel ribbon:
 
 ## Screenshots
 
-![AddButton Project - Hello World Button](Revit_addButton1.png)
 
 ![AddButton Project - Hello World Button](Revit_addButton1.png)
 
